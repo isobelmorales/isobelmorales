@@ -5,13 +5,13 @@
 ## Notable Projects
 
 Tetris Web App (Vanilla JavaScript/Canvas)
-  A recreation of the tetris puzzle game.
+- A recreation of the tetris puzzle game.
 
 Bottlekeep (MERN Stack)
-  A fullstack app that allows users to track their bottles on keep at various restaurants, bars, and lounges. 
+- A fullstack app that allows users to track their bottles on keep at various restaurants, bars, and lounges. 
 
 FinDash (Python + Django)
-  A fullstack app that allows users to manage their personal finances. 
+- A fullstack app that allows users to manage their personal finances. 
 
 ## Let's connect!
 
